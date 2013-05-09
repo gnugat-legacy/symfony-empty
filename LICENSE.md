@@ -1,10 +1,10 @@
 # LICENSE
 
-License for the <name> project.
+License for the Symfony Empty Edition distribution.
 
 ## The MIT license
 
-Copyright (c) 2013-2014 <author>
+Copyright (c) 2004-2013 Fabien Potencier
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
