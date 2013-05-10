@@ -1,8 +1,8 @@
 # Symfony Empty Edition
 
 The Symfony Empty Edition is a light distribution of the
-Symfony Standard Edition that you can use as a skeleton ready to use for your
-Symfony projects.
+[Symfony Standard Edition](https://github.com/symfony/symfony-standard)
+that you can use as a skeleton ready to use for your Symfony projects.
 
 ## Installation
 
