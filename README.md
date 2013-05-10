@@ -14,6 +14,14 @@ To create a new Symfony application using this distribution, get a copy of
 
 ## Differences with the standard edition
 
+* no AcmeDemonBundle;
+* empty (blank) favicons;
+* using twig without extensions;
+* using PHP 5.3.17+;
+* not using Swiftmailer;
+* no requirement tests;
+* intercepting redirection in dev environment.
+
 ## Further documentation
 
 You can find more documentation at the following links:
