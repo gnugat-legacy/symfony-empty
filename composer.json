@@ -1,8 +1,8 @@
 {
-    "name": "symfony/framework-standard-edition",
+    "name": "gnugat/symfony-framework-empty-edition",
     "license": "MIT",
     "type": "project",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "The \"Symfony Empty Edition\" distribution",
     "autoload": {
         "psr-0": { "": "src/" }
     },
