@@ -27,5 +27,4 @@ To create a new Symfony application using this distribution, get a copy of
 You can find more documentation at the following links:
 
 * [Copyright and MIT license](LICENSE.md);
-* [version](V and branching models](VERSIONING.md);
 * [contribution instructions](CONTRIBUTING.md).
