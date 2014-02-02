@@ -15,7 +15,7 @@
         "symfony/assetic-bundle": "~2.3",
         "symfony/monolog-bundle": "~2.4",
         "sensio/distribution-bundle": "~2.3",
-        "sensio/framework-extra-bundle": "~2.3",
+        "sensio/framework-extra-bundle": "~3.0",
         "sensio/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0"
     },
@@ -33,7 +33,6 @@
             "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets"
         ]
     },
-    "minimum-stability": "beta",
     "extra": {
         "symfony-app-dir": "app",
         "symfony-web-dir": "web",
